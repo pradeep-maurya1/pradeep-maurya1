@@ -1,3 +1,3 @@
-Web development
-this is my first Git repository
+Web development,
+this is my first Git repository,
 Author-Pradeep Maurya
